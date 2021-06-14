@@ -1,0 +1,11 @@
+
+data =  {
+            'Giorno' : 'CQACAgIAAxkBAAIJw2DG80A5EGi8qFQ5wo3WdHkSRoWMAALNDgAC3BU4Smo374ao0sn9HwQ',
+            'Johnny' : 'CQACAgIAAxkBAAIJxWDG83HqRwTc9dcSoa1qOQ7eg4IAA84OAALcFThKkUxGhw3EESYfBA',
+            'Jolyne' : 'CQACAgIAAxkBAAIJx2DG848AAcNaJ8W23PjNSV_CWjL-hQAC0A4AAtwVOEpgqmP_0kAvcx8E',
+            'Jonathan' : 'CQACAgIAAxkBAAIJyWDG87WhZ6eW-bgKRm6DrS7_1jv8AALUDgAC3BU4SkigmJ6ShIGIHwQ',
+            'Joseph' : 'CQACAgIAAxkBAAIJy2DG89xLZkYh3UJ1s11_PMCm5CwfAALVDgAC3BU4SmDU_lyeT1MQHwQ',
+            'Josuke' : 'CQACAgIAAxkBAAIJzWDG8_5WoYzrMOqgNAs5XSXGXYPCAALWDgAC3BU4Sl9rwGEyrT7uHwQ',
+            'Josuke(Jojolion)' : 'CQACAgIAAxkBAAIJz2DG9CThsYDjxwoCFEuaBGpMoGYuAALXDgAC3BU4ShPlVygR5m3GHwQ',
+            'Jotaro' : 'CQACAgIAAxkBAAIJ0WDG9Ehdg90nVMCkpU4pOL5DD5YNAALYDgAC3BU4SgxYbt5nqVttHwQ'
+        }
